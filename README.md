@@ -8,7 +8,7 @@
 * Built appropriate machine learning models (linear multiple regression, lasso regression, random forest regressor) and optimized using the GridsearchCV to reach the best model 
 
 
-## Code and Resources Used 
+## Resources and Libraries Used 
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn.  
 **Softwares:**  Spyder, Jupyter Notebook
@@ -67,7 +67,7 @@ I tried three different models:
 *	**Random Forest** – Again, with the sparsity associated with the data, I thought that this would be a good fit. 
 
 
-## Model performance
+## Model Performance
 The Random Forest model far outperformed the other approaches on the test and validation sets. 
 *	**Random Forest** : MAE = 12.46
 *	**Linear Regression**: MAE = 18.82
