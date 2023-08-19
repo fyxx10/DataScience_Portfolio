@@ -1,11 +1,11 @@
 # DataScience_Portfolio
 
 
-# Data Science Salary Estimator: Project Overview 
+# [Data Science Salary Estimator: Project Overview](https://github.com/fyxx10/SalaryEstimator_proj)
 * Created a tool that estimates data science salaries (MAE ~ $ 12K) to help data scientists negotiate their income when they get a job.
-* Downloaded already scraped data of over 1000 job descriptions from glassdoor for my analysis
+* Downloaded already scraped data of over 1000 job descriptions from glassdoor for my analysis.
 * Performed exploratory data analysis to establish relevant relationships between variables. 
-* Built appropriate machine learning models (linear multiple regression, lasso regression, random forest regressor) and optimized using the GridsearchCV to reach the best model 
+* Built appropriate machine learning models (linear multiple regression, lasso regression, random forest regressor) and optimized using the GridsearchCV to reach the best model. 
 
 
 ## Resources and Libraries Used 
@@ -61,7 +61,7 @@ First, I transformed the categorical variables into dummy variables. I also spli
 I tried three different models, performed cross-validation and evaluated them using Mean Absolute Error. 
 I chose MAE because it is relatively easy to interpret and outliers aren’t really bad.
 
-I tried three different models:
+models:
 *	**Multiple Linear Regression** – Baseline for the model
 *	**Lasso Regression** – Because of the sparse data from the many categorical variables, I thought a normalized regression like lasso would be effective.
 *	**Random Forest** – Again, with the sparsity associated with the data, I thought that this would be a good fit. 
