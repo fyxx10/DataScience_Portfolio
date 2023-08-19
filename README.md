@@ -11,7 +11,7 @@
 ## Resources and Libraries Used 
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn.  
-**Softwares:**  Spyder, Jupyter Notebook
+**Softwares:**  Spyder, Jupyter Notebook.
 
 
 ## Dataset Variables
@@ -73,4 +73,6 @@ The Random Forest model far outperformed the other approaches on the test and va
 *	**Linear Regression**: MAE = 18.82
 *	**Lasso Regression**: MAE = 19.67
 
+
+please click the Project Overview title to see codes.
 
