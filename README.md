@@ -1,5 +1,5 @@
 # DataScience_Portfolio
-  **Nunoo Emmanuel Felix Landlord Nii Operku**   |   +233 24 4380 877   |   **felixnunoo9@gmail.com  |  [Linkedin](https://Linkedin.com/in/nunoofelixjrr)
+  **Nunoo Emmanuel Felix Landlord Nii Operku**   |   +233 24 4380 877   |   **felixnunoo9@gmail.com**  |  [Linkedin](https://Linkedin.com/in/nunoofelixjrr)
 
 # Data Science Salary Estimator: Project Overview
 * Created a tool that estimates data science salaries (MAE ~ $ 12K) to help data scientists negotiate their income when they get a job.
