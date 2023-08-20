@@ -8,7 +8,7 @@
 * Built appropriate machine learning models (linear multiple regression, lasso regression, random forest regressor) and optimized using the GridsearchCV to reach the best model. 
 
 
-### please click on the link below for a PowerPoint Overview Presentation of the Project.
+### please click on the link below to access and download a short PowerPoint Overview Presentation of the Project.
 [PowerPoint Link](https://github.com/fyxx10/DataScience_Portfolio/blob/main/SalaryEstimator_overview.pptx)
 
 ### please click on the link below to access codes and resources used in the Project.
