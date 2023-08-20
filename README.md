@@ -9,7 +9,7 @@
 
 
 ### please click on the link below for a PowerPoint Overview Presentation of the Project.
-[PowerPoint Link]
+[PowerPoint Link](https://github.com/fyxx10/DataScience_Portfolio/blob/main/SalaryEstimator_overview.pptx)
 
 ### please click on the link below to access codes and resources used in the Project.
 [Resources Link](https://github.com/fyxx10/SalaryEstimator_proj_1)
