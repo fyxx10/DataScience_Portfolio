@@ -15,4 +15,3 @@
 
 ### please click on the link below to access codes and resources used in the Project.
 [Resources Link](https://github.com/fyxx10/SalaryEstimator_proj_1)
-
