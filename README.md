@@ -52,7 +52,21 @@ After importing the data, I needed to clean it up so that it was usable for our 
 
 
 ## Exploratory Data Analysis
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables:
+
+![alt text](https://github.com/fyxx10/SalaryEstimator_proj/blob/main/avg_salary_hist.png)
+![alt text](https://github.com/fyxx10/SalaryEstimator_proj/blob/main/age_avgS_rate_boxplot.png)
+![alt text](https://github.com/fyxx10/SalaryEstimator_proj/blob/main/heatmap_corr.png)
+![alt text](https://github.com/fyxx10/SalaryEstimator_proj/blob/main/No_employees_barplot.png)
+![alt text](https://github.com/fyxx10/SalaryEstimator_proj/blob/main/Ownership_barplot.png)
+![alt text](https://github.com/fyxx10/SalaryEstimator_proj/blob/main/Industry_barplot.png)
+![alt text](https://github.com/fyxx10/SalaryEstimator_proj/blob/main/Sector_barplot.png)
+![alt text](https://github.com/fyxx10/SalaryEstimator_proj/blob/main/Revenue_barplot.png)
+![alt text](https://github.com/fyxx10/SalaryEstimator_proj/blob/main/state_barplot.png)
+![alt text](https://github.com/fyxx10/SalaryEstimator_proj/blob/main/job_type_barplot.png)
+![alt text](https://github.com/fyxx10/SalaryEstimator_proj/blob/main/top20_location_barplot.png)
+![alt text](https://github.com/fyxx10/SalaryEstimator_proj/blob/main/top20_HQ_barplot.png)
+![alt text](https://github.com/fyxx10/SalaryEstimator_proj/blob/main/top20_companyName_barplot.png)
 
 
 ## Model Building 
