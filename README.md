@@ -1,5 +1,6 @@
 # DataScience_Portfolio
-**Nunoo Emmanuel Felix Landlord Nii Operku**  |  +233 24 4380 877  |  **felixnunoo9@gmail.com**  |  [Linkedin](Linkedin.com/in/nunoofelixjrr)
+  **Nunoo Emmanuel Felix Landlord Nii Operku**    |    +233 24 4380 877    |    **felixnunoo9@gmail.com**    |      
+                                              **Linkedin.com/in/nunoofelixjrr**
 
 
 # Data Science Salary Estimator: Project Overview
