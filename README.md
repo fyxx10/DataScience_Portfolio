@@ -15,7 +15,7 @@
 [PowerPoint Link](https://github.com/fyxx10/DataScience_Portfolio/blob/main/FS_overview.pptx)
 
 ### please click on the link below to access codes and resources used in the Project.
-[Resources Link](https://https://github.com/fyxx10/FoodSecurity_proj_2)
+[Resources Link](https://github.com/fyxx10/FoodSecurity_proj_2)
 
 
 
