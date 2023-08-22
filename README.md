@@ -1,7 +1,7 @@
 # DataScience_Portfolio
   **Nunoo Emmanuel Felix Landlord Nii Operku**   |   +233 24 4380 877   |   **felixnunoo9@gmail.com**  |  [Linkedin](https://Linkedin.com/in/nunoofelixjrr)
 
-#
+
 
 # Food Security Analysis: Project Overview
 * Analysed household food security data to help gain understanding on the factors that influence food security levels among different households.
@@ -17,8 +17,7 @@
 ### please click on the link below to access codes and resources used in the Project.
 [Resources Link](https://https://github.com/fyxx10/FoodSecurity_proj_2)
 
-#
-#
+
 
 # Data Science Salary Estimator: Project Overview
 * Created a tool that estimates data science salaries (MAE ~ $ 12K) to help data scientists negotiate their income when they get a job.
