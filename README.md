@@ -10,6 +10,7 @@
 * Cleaned and prepared data for effective use by handling missing values and conducting other data manipulation techiniques using pandas.
 * Performed exploratory data analysis to establish relevant relationships between variables and gain insights. 
 * Built appropriate machine learning models (linear regression, lasso regression, random forest and gradient boosting) to predict price of listings.
+* Evaluated models using MAE, MSE and RMSE
 * Conducted feature importance to know the degree to which variables affect the models
 
 ### please click on the link below to view project on Google Colab.
